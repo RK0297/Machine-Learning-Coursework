@@ -8,6 +8,9 @@ A comprehensive collection of machine learning tutorials, implementations, and p
 Practical implementations and tutorials of machine learning algorithms:
 
 - **basics.ipynb** - Introduction to ML fundamentals
+- **ml_pipeline.ipynb** - Complete ML pipeline implementation
+- **ml_pipeline2.ipynb** - Advanced ML pipeline techniques
+- **pipe.joblib** - Serialized pipeline model
 - **Supervised/** - Supervised learning algorithms
   - `decision_tree.ipynb` - Decision tree implementation
   - `decision_tree(ai code).ipynb` - AI-generated decision tree code
