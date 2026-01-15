@@ -6,12 +6,13 @@ ML tutorials and implementations covering core algorithms and techniques.
 
 | Folder | Contents |
 |--------|----------|
-| `01-Fundamentals/` | ML basics, pipelines, feature engineering, model evaluation |
+| `01-Fundamentals/` | ML basics, model evaluation |
 | `02-Supervised-Learning/` | Decision Trees, KNN, Linear & Logistic Regression, SVM |
 | `03-Unsupervised-Learning/` | K-Means, PCA |
 | `04-NLP/` | Text processing, email classification |
 | `05-Recommender-Systems/` | Collaborative filtering |
-| `06-Deep-Learning/` | TensorFlow & Keras implementations |
+| `06-Tensorflow & Keras/` | TensorFlow & Keras implementations |
+| `07-Feature-Engineering-and-Pipelines/` | Feature engineering, ML pipelines |
 | `datasets/` | Sample datasets (cancer, heart disease, titanic, wine) |
 | `Lectures/` | Course materials |
 
