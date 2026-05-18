@@ -9,9 +9,8 @@ ML tutorials and implementations covering core algorithms and techniques.
 | `01-Fundamentals/` | ML basics, model evaluation |
 | `02-Supervised-Learning/` | Decision Trees, KNN, Linear & Logistic Regression, SVM |
 | `03-Unsupervised-Learning/` | K-Means, PCA |
-| `04-NLP/` | Text processing, email classification |
+| `04-NLP/` | Text processing, NLP, email classification, text vectorization |
 | `05-Recommender-Systems/` | Collaborative filtering |
-| `06-Tensorflow & Keras/` | TensorFlow & Keras implementations |
 | `07-Feature-Engineering-and-Pipelines/` | Feature engineering, ML pipelines |
 | `datasets/` | Sample datasets (cancer, heart disease, titanic, wine) |
 | `Lectures/` | Course materials |
@@ -40,4 +39,4 @@ Python 3.7+ • Jupyter • NumPy • Pandas • Scikit-learn • TensorFlow
 **Author:** Radhakrishna Bharuka
 
 
-**Last Updated:** December 2025
+**Last Updated:** May 2026
