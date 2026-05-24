@@ -12,6 +12,7 @@ ML tutorials and implementations covering core algorithms and techniques.
 | `04-NLP/` | Text processing, NLP, email classification, text vectorization |
 | `05-Recommender-Systems/` | Collaborative filtering |
 | `07-Feature-Engineering-and-Pipelines/` | Feature engineering, ML pipelines |
+| `08-Model-Deployment-and-MLOps/` | Model deployment, FastAPI, Django, and MLOps principles |
 | `datasets/` | Sample datasets (cancer, heart disease, titanic, wine) |
 | `Lectures/` | Course materials |
 
