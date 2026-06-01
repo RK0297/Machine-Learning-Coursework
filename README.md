@@ -13,6 +13,7 @@ ML tutorials and implementations covering core algorithms and techniques.
 | `05-Recommender-Systems/` | Collaborative filtering |
 | `07-Feature-Engineering-and-Pipelines/` | Feature engineering, ML pipelines |
 | `08-Model-Deployment-and-MLOps/` | Model deployment, FastAPI, Django, and MLOps principles |
+| `Deep-Learning-Coursework/` | Neural networks, deep learning using TensorFlow and Keras |
 | `datasets/` | Sample datasets (cancer, heart disease, titanic, wine) |
 | `Lectures/` | Course materials |
 
