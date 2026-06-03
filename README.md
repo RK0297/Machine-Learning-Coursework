@@ -11,11 +11,21 @@ ML tutorials and implementations covering core algorithms and techniques.
 | `03-Unsupervised-Learning/` | K-Means, PCA |
 | `04-NLP/` | Text processing, NLP, email classification, text vectorization |
 | `05-Recommender-Systems/` | Collaborative filtering |
+| `06-Deep-Learning/` | Neural networks, TensorFlow, Keras, transfer learning, and optimization techniques |
 | `07-Feature-Engineering-and-Pipelines/` | Feature engineering, ML pipelines |
 | `08-Model-Deployment-and-MLOps/` | Model deployment, FastAPI, Django, and MLOps principles |
-| `Deep-Learning-Coursework/` | Neural networks, deep learning using TensorFlow and Keras |
 | `datasets/` | Sample datasets (cancer, heart disease, titanic, wine) |
 | `Lectures/` | Course materials |
+
+### 🧠 06-Deep-Learning/ Substructure
+
+| Subfolder | Contents |
+|-----------|----------|
+| `01-TensorFlow-and-Keras/` | Keras regression, classification, and image recognition notebooks |
+| `02-Advanced-Topics/` | Advanced neural network concepts (for future expansion) |
+| `03-Lectures/` | Deep learning theory and advanced topics PDFs |
+| `datasets/` | Datasets for deep learning models |
+| `models/` | Trained models (GEM model, etc.) |
 
 ## 🚀 Quick Start
 
@@ -40,5 +50,13 @@ Python 3.7+ • Jupyter • NumPy • Pandas • Scikit-learn • TensorFlow
 
 **Author:** Radhakrishna Bharuka
 
+**Last Updated:** June 2026
 
-**Last Updated:** May 2026
+---
+
+## 📝 Recent Changes
+
+- ✅ Reorganized folder structure with consistent numbering (01-08)
+- ✅ Renamed and organized Deep Learning subdirectories
+- ✅ Standardized file naming conventions across all notebooks and models
+- ✅ Created dedicated lecture materials folder with renamed PDFs
